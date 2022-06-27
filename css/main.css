@@ -79,6 +79,7 @@ li {
   bottom: 0;
   padding: 30px;
   width: 100%;
+  background-color: white;
 }
 
 .spacer{
@@ -91,6 +92,48 @@ a {
   text-decoration: none;
   color: black;
 }
+
+.contact {
+  width: 50%;
+  display: flex;
+}
+
+.container-text {
+  max-width: 11;
+  margin: 0 auto;
+  padding: 0 3rem;
+  margin-top: 4rem;
+  text-align: center;
+  display: flex;
+}
+
+.container-text h1 {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 8px;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.container-text p {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.profile-pic {
+  width: 60%;
+  display: flex;
+}
+
+.column{
+  flex: 50%;
+}
+
+
+
+
 
 
 
