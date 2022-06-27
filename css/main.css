@@ -77,9 +77,16 @@ li {
   justify-content: center;
   position: fixed;
   bottom: 0;
-  padding: 30px;
+  padding: 20px;
   width: 100%;
   background-color: white;
+  height: 3%;
+  font-size: 12px;
+  text-align: left;
+}
+
+.footer p {
+  color: grey;
 }
 
 .spacer{
